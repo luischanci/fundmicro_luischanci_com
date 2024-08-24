@@ -1,0 +1,133 @@
+---
+title: "[Microeconomía]{.migreen}"
+subtitle: " "
+author: "[Luis Chanc&iacute;]{.miblue}"
+institute: "[[www.luischanci.com]{.miblue}](http://www.luischanci.com){.miblue}"
+execute:
+  cache: true
+format:
+  html:
+    html-math-method: katex
+    echo: true
+    callout-appearance: minimal
+    theme: [cosmo, template.css]
+    toc: true
+    toc-title: Tabla de Contenido
+    embed-resources: true
+    code-line-numbers: true
+    smooth-scroll: true
+    fig-dpi: 250
+    include-in-header:
+      - text: |    
+          <script async src="https://www.googletagmanager.com/gtag/js?id=G-1PK9F28LTP"></script>
+            <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-1PK9F28LTP');
+            </script>
+editor: 
+  markdown: 
+    wrap: 72
+editor_options: 
+  chunk_output_type: console
+---
+
+## Bienvenida
+
+Bienvenidos a (Fundamentos de) Microeconomía, un curso introductorio a los conceptos más relevantes de la microeconomía. Aquí encontrarán material que empleo en clase para pregrado.
+
+El material ha sido diseñado a un nivel introductorio, siguiendo muy de cerca el libro de Microeconomía de Pindyck. Aunque preparé el material, **reconozco que algunas figuras son escaneos tomados del texto** mientras diseño otras propias (los derechos de esas figuras corresponden, por ende, al autor). El único objetivo de la creación de este material es apoyar el aprendizaje de los estudiantes, especialmente considerando la carencia de editoriales en América Latina que provean material docente adecuado. No hay ningún interés comercial, solo un interés altruista.
+
+[**Prof. Luis Chancí**](http://www.luischanci.com/)
+
+
+## Referencias (textos)
+
+El material que he seguido para preparar clases en español corresponden a libros a los que tuve acceso cuando era docente en EE.UU. y son los siguientes:
+
+**Básicos**
+
+- Pindyck, R. & Rubinfeld, D. Microeconomics, 9th ed. Pearson, 2018.
+- Mankiw, G. Principles of Microeconomics, 9th Edition. Cengage, 2021.
+- Nicholson, W. Microeconomic Theory: Basic Principles and Extensions, 12th ed. Cengage, 2016. 
+
+**Complementarios**
+
+- H. Varian. Intermediate Microeconomics: A Modern Approach 9th ed. Norton, 2014. 
+- H. Varian. Intermediate Microeconomics with Calculus: A Modern Approach: Media Update First Edition. Norton, 2019.
+
+
+## [Parte I: El Mercado Competitivo]{.migreen}
+
+### Acerca de la primera parte
+
+:::columns
+::: {.column style="width: 60%; font-size: 95%;"}
+
+La primera parte es una introducción a la economía y comienza con una revisión de los llamados 10 principios de Mankiw y el modelo básico de la Frontera de Posibilidades de Producción. Posteriormente, se revisa de forma general lo que la mayoría de las personas tienden a entender por oferta y demanda. En esta parte se incorpora el concepto de elasticidad y se discute su importancia. Luego entramos en el detalle detrás de las curvas de demanda y oferta. En particular, se revisa la teoría del consumidor utilitarista para la demanda y la teoría de la producción para la oferta. Finalmente, se discute el concepto de equilibrio en un mercado competitivo.
+
+:::
+::: {.column style="width: 40%;"}
+![](general_pics/logo.png){fig-align="center" width=110%}
+:::
+:::
+
+### Diapositivas, apuntes y/o ejercicios (parte I). 
+
+| Tema             | Diapositivas | Tarea   |
+|:-----------------|:-------------|:-------------|
+| **0. Presentación** | [En línea](https://www.luischanci.com/presentations/Fund_Micro/contenido0.html) ; [PDF](https://www.luischanci.com/presentations/Fund_Micro/contenido0.pdf) | [Tarea](https://www.luischanci.com/documents/Fund_Micro/F_Micro_T0.pdf) |
+| **1. Introducción a economía** | [En línea](https://www.luischanci.com/presentations/Fund_Micro/contenido1.html) ; [PDF](https://www.luischanci.com/presentations/Fund_Micro/contenido1.pdf) | [Tarea](https://www.luischanci.com/documents/Fund_Micro/F_Micro_T1.pdf) |
+| **2. Introducción a Oferta-Demanda, elasticidad, equilibrio** | [En línea](https://www.luischanci.com/presentations/Fund_Micro/contenido2.html) ; [PDF](https://www.luischanci.com/presentations/Fund_Micro/contenido2.pdf) | [Tarea](https://www.luischanci.com/documents/Fund_Micro/F_Micro_T2.pdf) |
+| **3. Consumo** | [En línea](https://www.luischanci.com/presentations/Fund_Micro/contenido3.html) ; [PDF](https://www.luischanci.com/presentations/Fund_Micro/contenido3.pdf) | [Tarea](https://www.luischanci.com/documents/Fund_Micro/F_Micro_T3.pdf) |
+| **4. Consumo y Demanda** | [En línea](https://www.luischanci.com/presentations/Fund_Micro/contenido4.html) ; [PDF](https://www.luischanci.com/presentations/Fund_Micro/contenido4.pdf) | [Tarea](https://www.luischanci.com/documents/Fund_Micro/F_Micro_T4.pdf) |
+| **5. Producción** | [En línea](https://www.luischanci.com/presentations/Fund_Micro/contenido6.html) ; [PDF](https://www.luischanci.com/presentations/Fund_Micro/contenido6.pdf) | [Tarea](https://www.luischanci.com/documents/Fund_Micro/F_Micro_T5.pdf) |
+| **6. Costos** | [En línea](https://www.luischanci.com/presentations/Fund_Micro/contenido7.html) ; [PDF](https://www.luischanci.com/presentations/Fund_Micro/contenido7.pdf) | [Tarea](https://www.luischanci.com/documents/Fund_Micro/F_Micro_T6.pdf) |
+| **7. Beneficios** | [En línea](https://www.luischanci.com/presentations/Fund_Micro/contenido8.html) ; [PDF](https://www.luischanci.com/presentations/Fund_Micro/contenido8.pdf) | |
+| **8. Mercado Competitivo** | [En línea](https://www.luischanci.com/presentations/Fund_Micro/contenido9.html) ; [PDF](https://www.luischanci.com/presentations/Fund_Micro/contenido9.pdf) | |
+
+</br></br>
+
+## [Parte II: Poder de Mercado y Otros Temas]{.migreen}
+
+### Acerca de la segunda parte
+
+:::columns
+::: {.column style="width: 60%; font-size: 95%;"}
+
+En la segunda parte, nos separamos de las características de un mercado competitivo que funciona 'perfectamente'. Primero, comenzamos con una situación en la cual los agentes poseen poder de mercado. Por ejemplo, la reducción en el número de oferentes (monopolio) o compradores (monopsonio) afecta el resultado final de las transacciones en términos de la cantidad que se transa y el precio de un bien o servicio. Luego se incorpora una revisión de condiciones que afectan la forma de tomar decisiones por parte de los agentes en economía. En esta parte, incorporamos elementos de teoría de juegos, incertidumbre y asimetría en la información. Finalmente, se estudian las externalidades y los bienes públicos. Es decir, por ejemplo, situaciones en las cuales el precio de un bien o servicio no refleja su verdadero costo de producción.
+
+:::
+::: {.column style="width: 40%;"}
+![Fuente foto: pixabay.com, por marcinjozwiak.](general_pics/pollution.jpg){fig-align="center" width=110%}
+:::
+:::
+
+
+### Diapositivas, apuntes y/o ejercicios (parte II). 
+
+| Tema             | Diapositivas | Ejercicios   |
+|:-----------------|:-------------|:-------------|
+| **1. Monopolio y Monopsonio** | [En línea](https://www.luischanci.com/presentations/Fund_Micro/tema1.html) ; [PDF](https://www.luischanci.com/presentations/Fund_Micro/tema1.pdf) | [Práctica](https://www.luischanci.com/documents/Fund_Micro/ejercicios_tema1.pdf) |
+| **2. Precios y Poder de Mercado** | [En línea](https://www.luischanci.com/presentations/Fund_Micro/tema2.html) ; [PDF](https://www.luischanci.com/presentations/Fund_Micro/tema2.pdf) | [Práctica](https://www.luischanci.com/documents/Fund_Micro/ejercicios_tema2.pdf) |
+| **3. Competencia Monopolística y Oligopolio** | [En línea](https://www.luischanci.com/presentations/Fund_Micro/tema3.html) ; [PDF](https://www.luischanci.com/presentations/Fund_Micro/tema3.pdf) | Práctica |
+| **4. Incertidumbre** | [En línea](https://www.luischanci.com/presentations/Fund_Micro/tema4.html) ; [PDF](https://www.luischanci.com/presentations/Fund_Micro/tema4.pdf) | Práctica |
+| **5. Introducción a Teoría de Juegos** | [En línea](https://www.luischanci.com/presentations/Fund_Micro/tema5.html) ; [PDF](https://www.luischanci.com/presentations/Fund_Micro/tema5.pdf) | Práctica |
+| **6. Información Asimétrica** | [En línea](https://www.luischanci.com/presentations/Fund_Micro/tema6.html) ; [PDF](https://www.luischanci.com/presentations/Fund_Micro/tema6.pdf) | Práctica |
+| **7. Externalidades y Bienes Públicos** | [En línea](https://www.luischanci.com/presentations/Fund_Micro/tema7.html) ; [PDF](https://www.luischanci.com/presentations/Fund_Micro/tema7.pdf) | Práctica |
+
+
+<br><br>
+
+::: {.callout-tip title="Comentarios finales:" appearance="default"}
+
+- La evaluación de los temas asociados a la Parte I estará basada en las prácticas o tareas semanales.
+- La evaluación de los temas asociados a la Parte II estará basada en quices. Los ejercicios enunciados les servirán de práctica.
+- Respecto al uso de herramientas de inteligencia artificial (por ejemplo, ChatGPT, Gemini, entre otros), los motivo a que las empleen para complementar sus estudios y resolver dudas asociadas a los ejercicios. Estoy seguro de que si preparan un buen 'prompt' y revisan la guía de ejercicios de la Parte II, obtendrán respuestas (no necesariamente correctas, pero les servirán para el análisis). Mi interés es que practiquen los conceptos. Ya en los quices o pruebas trabajarán de forma individual lo que aprendieron.
+- Finalmente, es de mencionar que en esta web he dejado solo material de acompañamiento usado en clase. Para comunicaciones, envío de actividades evaluadas (tareas) y cualquier otro asunto, por favor utilizar la plataforma institucional (por ejemplo, Moodle).
+
+:::
+
+------------------------------------------------------------------------
+
